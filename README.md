@@ -1,121 +1,69 @@
-# Limbus Company Dialogue Boxes for Enemies & Identities! UPDATED TO v1.101.0, LCE Check-up Event, LCE E.G.O::AEDD Gregor Added!
-- I’ve made a new installer program that you can download so you can easily install the mod and update it to the latest version. [LimbusSpeechBubbleENInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleENInstaller.exe)
-- Fixed Wildhunt's two other Kill Voicelines not appearing (PM why the hell did the voicefile ID change???)
-- Added The Middle Apperentice Ishmael's S2 VL (Though each part of it is a seperate voicefile so it may not show "One, two, Three!" speech bubbles fully, and they may be off-screen too.).
-- Added LCE E.G.O::AEDD Gregor.
-- FA&S Ryoshu Voicelines got fixed so she has some new lines now!
-- Fixed Index DonQ S3-1 Line.
-- Fixed Hanafuda Ishmael S3-2 Speech Bubble timings.
-- Fixed The Pinky Nursefather's S3 Speech Bubble timings (PM why no fix).
-- Translation fixes...
-
-# About the Façade Projection (Skin System)
-## Unfixable on my Part, PM needs to overwrite the Speech Bubble Data for the base Identity, since it only uses the original Identity's Speech Bubble. 
-
-https://github.com/user-attachments/assets/e9ac0fff-8305-47cb-9119-ee1757231154
+# Русский перевод боевых диалоговых окон Limbus Company. Версия v1.101.0, LCE Check-up Event
 
 
-# Regarding Youtube Channel
-## Videos soon hopefully.
+## Перевод может содержать ошибки.
+### ВАЖНО
+- Основной Английский перевод может содержать различные ошибки. Ввиду этого, ошибки с английского перевода могли перейти и на русский
+- На данный момент перевод на русский выполнен с помощью DeepSeek. Постепенно буду исправлять все ошибки перевода
+- Некоторые пункты удалены из описания. Если у вас возникли проблемы, прежде чем написать о проблеме в Issues, ознакомьтесь с описанием основного репозитория модификации.
 
-### This mod adds speech bubbles for all characters with battle voicelines! (Including Untranslated Lines!)
+<img src="Screenshot/birb.png" alt="birb"/>
+<img src="Screenshot/KillConfirmed.png" alt="KillConfirmed"/>
+<img src="Screenshot/bangbang.png" alt="bangbang"/>
 
-# Do NOTE That The Untranslated Voicelines are Unofficial Can Be Wrong at times!
-<img src="Screenshot/Hehehaha.png" alt="Hehehaha"/>
-<img src="Screenshot/LaShangure.png" alt="LaShangure"/>
-<img src="Screenshot/Shooting.png" alt="Shooting"/>
+## Предупреждение об установке
+### Обновлять игру НЕ нужно при каждом новом обновлении локализованного контента. Обновление требуется ТОЛЬКО при появлении новых идентичностей, чтобы добавить к ним реплики (а также для новых сюжетных врагов, поскольку у них может не быть реплик к моменту выхода игры, так как это обновление заменяет файл с репликами).
 
-## Installation Warning
-### ~~Whenever a new UPDATE happens, PLEASE DISABLE the mod!!! and wait for a new update on this repository. (or else you would face issues like [softlocking](https://www.youtube.com/watch?v=nHrCFfdBMAA))~~
-### As of 13th Nov, 2025, You now need to not update on every single new localization content update. Now you ONLY need to update when there are new identities so you can add Speech Bubbles on them. (New Story Enemies too, cause they might not have their speech bubble by PM since this replaces the Speech Bubble file.)
-### Some users faced problems when their PC Language wasn't set to English, it will cause errors in-game like these [Issues](https://www.youtube.com/watch?v=nHrCFfdBMAA)
-# Installation - PC
-## Using the Installer:
-Report any issues when using this installer!
-1. Download [LimbusSpeechBubbleENInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleENInstaller.exe) and open it.
-2. It should automatically detect the game folder, if it doesn't, You need to browse it to where your game folder directory is and select `LimbusCompany_Data` folder.
-3. Click on [Install / Update Mod]
-4. The mod should now be installed and updated to latest!
-5. You can also use the installer to easily update the mod instead of having to download again and again from the GitHub repository.
-6. Don't forget the Launch Setup below, if installing for the first-time.
-## Using the Original Method:
-1. Click **Code** → **Download ZIP** on this GitHub repository.
-2. Open or Extract the ZIP file.
-3. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
-Ex.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_Data`
+### Некоторые пользователи столкнулись с проблемами, когда язык их системы не был установлен на английский. Это может вызвать ошибки в игре, подобные этим:  [Issues](https://www.youtube.com/watch?v=nHrCFfdBMAA)
+
+# Установка - ПК
+
+## Классический метод:
+1. Нажмите **Code** → **Download ZIP** в этом репозитории GitHub.
+2. Откройте или Распакуйте ZIP файл.
+3. Нажмите 'Просмотреть локальные файлы' Limbus Company, и откройте папку 'LimbusCompany_Data'
+Прим.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_Data`
       <img src="Screenshot/Browselocalfiless.png" alt="Browselocalfiless"/>
       <img src="Screenshot/datass.png" alt="datass"/>
 
-4. Drag the "Lang" folder from the ZIP file into the "LimbusCompany_Data" folder.
+4. Перетащите папку "Lang" из скачанного ZIP файла в папку "LimbusCompany_Data".
       <img src="Screenshot/Likethis.png" alt="Likethis"/>
-- To update, Delete `SpeechDialogBoxesEN - NotherWael` in the `Lang` folder, and put in the new one.
-  (This will remove your custom fonts, so add them back)
-- To disable this mod, simply remove the Lang Folder and restart the game, or Select "-" in "Select Custom Langauge" at the start menu, and restart the game.
-## Launch Setup:
-1. Launch the game, click on "Select Custom Language," choose **SpeechDialogBoxesEN - NotherWael**, and restart the game.  
-   - If it’s already selected, you can skip this step.
+- Что бы обновить, Удалите файл `BattleSpeechBubbleDlg.json`по пути `Lang\SpeechDialogBoxesEN - NotherWael\`, и затем поместите туда новую версию файла.
+- Чтобы отключить этот мод, просто удалите папку `SpeechDialogBoxesEN - NotherWael` и перезапустите игру, или выберите «-» в разделе «Выбор пользовательского языка» в главном меню и перезапустите игру.
+## Настройка запуска:
+1.Запустите игру, нажмите "Select Custom Language," в левом низу экрана, выберите **SpeechDialogBoxesEN - NotherWael**, и перезапустите игру.  
+   - Если этот параметр уже выбран, вы можете пропустить этот шаг.
    <img src="Screenshot/SelectTL.png" alt="SelectTL"/>
-2. Enjoy the mod!
+2. Наслаждайтесь модом!
 
-## Installation - Mobile (ANDROID ONLY)
-### Note: This method directly replaces the speech bubble localization file, and is not a custom language mod since it's not implemented on mobile, Do it on your own risk!
-### Note: Everytime you launch Limbus after doing step 6, Limbus will redownload its own file, and will replace the modifed one, so you have to do it all over again everytime you launch Limbus.
-1. Connect your Android phone to a PC. (or you can do this directly on your phone if you know how to do it, from using something like ZArchiver.)
-2. Download [BattleSpeechBubbleDlg.json](https://github.com/NotherWael/LimbusDialogueBoxes_EN/blob/main/Lang/SpeechDialogBoxesEN%20-%20NotherWael/BattleSpeechBubbleDlg.json)
-3. Rename `BattleSpeechBubbleDlg.json` to `EN_BattleSpeechBubbleDlg.json`
-4. Access your phone files, and navigate to `Internal storage\Android\data\com.ProjectMoon.LimbusCompany\files\Assets\Resources_moved\Localize\en`
-5. Launch the game Limbus Company, and Touch to Start.
-6. As soon as you see the loading screen (Dante staring at the star), Replace the `EN_BattleSpeechBubbleDlg.json` file with the one you downloaded and renamed.
-   - (This is to bypass Limbus's auto download that replaces modified files with their own correct one.)
-   - You HAVE to do this before getting to Lobby screen, or else it will NOT work and you gotta restart and do it again.
-7. The mod should work now, Enjoy!
+## С помощью установщика: 
+### ВАЖНО: я никак не изменял установшик. При его использовании у вас будет установлена оригинальная английская версия мода от NotherWael. Используйте классический метод установки
 
-## Custom Font Styles Instructions
-1. Click **Code** → **Download ZIP** on this GitHub repository.
-2. Open or Extract the ZIP file.
-3. Navigate to your Limbus Company folder, and open the 'LimbusCompany_Data' folder
-4. Open the 'Lang' folder and then 'SpeechDialogBoxesEN - NotherWael' folder
-5. Delete the 'Font' Folder
-6. From the ZIP file, Open 'Custom Fonts' folder & Choose a Style.
-7. Open the folder of the style you choose and copy the 'Font' folder
-8. Paste the 'Font' folder in the 'SpeechDialogBoxesEN - NotherWael' folder
-9. Done! & Restart the game if open.
+Сообщайте о любых ошибках, возникших при использовании установщика!
+1. Скачайте [LimbusSpeechBubbleENInstaller.exe](https://github.com/NotherWael/LimbusDialogueBoxes_EN/raw/refs/heads/main/LimbusSpeechBubbleENInstaller.exe) откройте его.
+2. Установщик должен автоматически обнаружить папку с игрой, но если этого не произошло, Вам нужно открыть папку с игрой, и выбрать папку `LimbusCompany_Data`.
+3. Нажмите на [Install / Update Mod]
+4. Мод должен быть установлен и обновлён до последней версии!
+5. Так же с помощью установщика вы можете с лёгкостью обновить мод вместо того, что бы заново скачивать мод с репозитория GitHub.
+
+##  ̶У̶с̶т̶а̶н̶о̶в̶к̶а̶ ̶н̶а̶ ̶Т̶е̶л̶е̶ф̶о̶н̶ ̶(̶A̶N̶D̶R̶O̶I̶D̶ ̶O̶N̶L̶Y̶)̶  
+### ВАЖНО: этот метод НАПРЯМУЮ заменяет файлы игры, т.к. функция кастомных переводов не поддерживается на телефоне. Не рекомендую использовать данный метод, т.к. файл нужно менять при каждом запуске игры, и самое главное, за модификацию файлов игры можно получить блокировку аккаунта.
+### Если вы всё же решились заменять файлы игры, посмотрите руководство по установке в основном репозитории NotherWael
+
+
+## Инструкция по установке пользовательских шрифтов (не все поддерживают русский язык)
+1. Нажмите **Code** → **Download ZIP** в этом репозитории GitHub.
+2. Откройте или Распакуйте ZIP файл.
+3. Нажмите 'Просмотреть локальные файлы' Limbus Company, и откройте папку 'LimbusCompany_Data'
+4. Откройте папку 'Lang', а затем папку 'SpeechDialogBoxesEN - NotherWael'.
+5. Удалите папку 'Font'.
+6. Из ZIP-файла откройте папку 'Custom Fonts' и выберите стиль.
+
+7. Откройте папку с выбранным стилем и скопируйте папку 'Font'.
+8. Вставьте папку 'Font' в папку 'SpeechDialogBoxesEN - NotherWael'.
+9. Готово! И перезапустите игру, если она открыта.
 
 ## Q&A
-1. Is this safe? is it bannable?
-   - It’s safe and not bannable. it's a custom language mod implemented by PM, It just changes the localization files.
-   - PM stated "Please note that, modification of the game client beyond the language text files, such as modification of client images or in-game data could be met with legal action or bans without prior warning" [Link For the Notice](https://store.steampowered.com/news/app/1973530/view/533220039674824558)
-
-   - But then again it's outside the intented use, cause it's not a different language, so PM may not like this kind of use for the custom language implementation, so it's kinda of a grey area at the moment.
-   - **PM Recently Announced that they're gonna post new guidelines for modding and fanwork, so they might say something about this mod, if they'll allow it or not.**
-   
-   - As for the Mobile method, do it on your own risk! since you directly replace the files, it's kinda similar to current visual modding, where no one has gotten banned yet but could get banned at any time. (but then again this is only modifying the text files, so in the end idk)
-
-2. How is this done?
-   - Using the file `BattleSpeechBubbleDlg.json` you can add your own speech bubble text! (just needs the Voiceline ID and the text.)
-   - So the mod is only a localization file to add speech bubbles, there isn't any bepinex dll plugins or asset modification or anything like that.
-
-## Downsides & Issues
-### This covers every battle voiceline in the game!!! So there might be a few characters missing lines if I've missed them, or if I've put the wrong voiceline ID, LMK if there are any!
-
-- PC language may require to be set to English, though this might not apply to all languages.
-- Some voicelines cannot display speech bubbles (e.g., Devyat's Polu or Full-stop Heathcliff in Overwatch state).  
-- ~~Font may not match the base game... (like Mikodacs Font, not having Letter Spacing from the base game.) but you can use your own custom fonts!~~
-- **Added the correct letter-spacing Mikodacs Font! as of 30th Oct 2025**
-- A green icon appears in the top-right corner during battle or story, indicates you are using a custom language mod.  
-- Game start-up screen menu loading may take ages! (though it might be cause of my weak device... so i'm not sure) 
-- ~~Speech bubbles stay longer than they have to blocking visibility on skills during combat.~~
-- ~~Speech bubbles can end early because of the previous speech bubble before it.~~
-- **As of 5th of Feb 2026, PM Has Made Speech Bubbles more dynamic where it finishes much faster as soon as the voiceline ends which can make slow readers miss out on some words on voicelines with long text but short spoken korean, and on mulitple voicelines it slowly transitions to the next Speech Bubble which causes about 0.7 second delay to see what the text is as the voiceline plays. (It also happens when the Speech Bubble first appears i think)**
-- Retreating IDs VLs move their Speech bubbles to the Substituted ID.
-
-## Known Voicelines That Do Not Work
-- Devyat North Sinclair & Rodion All Poludnitsa Lines (Except the death ones cause i can fit it in with their death lines.)
-- Overwatch Assignment Full-stop Heathcliff Combo Voicelines (He's not in battle, i could try to put it with FS Hong Lu's line, but his line has two variants so... i guess i'll put both!)
-- N Corp Ryoshu and Yi Sang Skill Combo I Shall Fire // Anytime (Yeah the speech bubble just doesn't want to appear above her head at all, and yes i did check if it's the correct ID.)
-- ~~Bloodfiend Trio Stage Turn Start VLs Don't Work Except for The Priest. (Their Skill VLs work tho... and some of these turn start voicelines do work on their respective stages.)~~
-- All BOSSES Turn Start Voicelines Don't Work Sometimes...? (Their VLs during Combat Phase work tho... no idea what's causing this...)
-
-## Credits
-Goliath for telling me how to do this, they make a Russian translation custom langauge mod.
-https://github.com/Divine-Company/DivineCompany_RussianTranslationDepartment
+1. Это безопасно? За это можно получить бан?
+   - Это безопасно и не влечет за собой бан. Это пользовательский языковой мод, реализованный PM, он просто изменяет файлы локализации.
+   - Project Moon заявили: «Обратите внимание, что модификация игрового клиента, выходящая за рамки языковых текстовых файлов, такая как изменение изображений клиента или внутриигровых данных, может повлечь за собой юридические последствия или бан без предварительного предупреждения» [Ссылка на уведомление] (https://store.steampowered.com/news/app/1973530/view/533220039674824558)
