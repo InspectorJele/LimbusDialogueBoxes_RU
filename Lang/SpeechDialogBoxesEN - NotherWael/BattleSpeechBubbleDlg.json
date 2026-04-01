@@ -1104,7 +1104,7 @@
 	{
       "id": "9SV-BAT14-03-3",
       "desc": "",
-      "dlg": "What is left to rage on... is only my wretched heart."
+      "dlg": "Что осталось яростно горевать... это только моё жалкое сердце."
   },
 
   {
@@ -1114,57 +1114,57 @@
   {
     "id": "battle_select_400025_1",
     "desc": "################# Baby Yi Sang ###############",
-    "dlg": "You called... yah?"
+    "dlg": "Вы фвали... да?"
   },
   {
     "id": "battle_endcommand_400025_1",
     "desc": "",
-    "dlg": "I shell do it!"
+    "dlg": "Я фделаю ето!"
   },
   {
     "id": "battle_s3_400025_1",
     "desc": "",
-    "dlg": "Iss ideal..."
+    "dlg": "ето ифеально..."
   },
   {
     "id": "battle_select_400026_1",
     "desc": "################# Baby Faust ###############",
-    "dlg": "I’m wistening."
+    "dlg": "Я флуфаю."
   },
   {
     "id": "battle_endcommand_400026_1",
     "desc": "",
-    "dlg": "Paus will do dis."
+    "dlg": "Фаус фделает ето."
   },
   {
     "id": "battle_s3_400026_1",
     "desc": "",
-    "dlg": "Ah, I muss impwove my balance."
+    "dlg": "Ах, я долфна улуфить фвой баланф."
   },
   {
     "id": "battle_select_400027_1",
     "desc": "################# Baby Quixote ###############",
-    "dlg": "Jussis! Jussis!!"
+    "dlg": "Сплаведливофть! Сплаведливофть!!"
   },
   {
     "id": "battle_endcommand_400027_1",
     "desc": "",
-    "dlg": "Jussis!!!"
+    "dlg": "Сплаведливофть!!!"
   },
   {
     "id": "battle_s3_400027_1",
     "desc": "",
-    "dlg": "<i>Hyaaaaaaah!!</i>"
+    "dlg": "<i>Хааааайяяя!!</i>"
   },
   {
     "id": "battle_select_400028_1",
     "desc": "################# Baby Ryoshu ###############",
-    "dlg": "Wha... issit?"
+    "dlg": "Фто...?"
   },
   {
     "id": "battle_endcommand_400028_1",
     "desc": "",
-    "dlg": "Hum, shweet Shwordmanship."
+    "dlg": "хммм, холошо пофоевали."
   },
   {
     "id": "battle_s3_400028_1",
@@ -1174,12 +1174,12 @@
   {
     "id": "battle_select_400029_1",
     "desc": "################# Baby Meursault ###############",
-    "dlg": "Yes, Principal."
+    "dlg": "Слушаю, директор."
   },
   {
     "id": "battle_endcommand_400029_1",
     "desc": "",
-    "dlg": "Leave it to me."
+    "dlg": "Оставьте это на меня."
   },
   {
     "id": "battle_s3_400029_1",
@@ -1189,77 +1189,77 @@
   {
     "id": "battle_select_400030_1",
     "desc": "################# Baby Hong Lu ###############",
-    "dlg": "I'm wistening~"
+    "dlg": "Я флуфаю~"
   },
   {
     "id": "battle_endcommand_400030_1",
     "desc": "",
-    "dlg": "Feews like my body is getting lighter~"
+    "dlg": "Кафется, мое тело фтановится легче~"
   },
   {
     "id": "battle_s3_400030_1",
     "desc": "",
-    "dlg": "Not weally my taste~"
+    "dlg": "Не фовсем в моем фкусе~"
   },
   {
     "id": "battle_select_400031_1",
     "desc": "################# Baby Heathcliff ###############",
-    "dlg": "Engh... Waschu lookin' at!"
+    "dlg": "Эй... на фто уфтавифся?!"
   },
   {
     "id": "battle_endcommand_400031_1",
     "desc": "",
-    "dlg": "Hehehehehe! Issa leggy billy!"
+    "dlg": "хехехехехе! Долгофязый фабияка!"
   },
   {
     "id": "battle_s3_400031_1",
     "desc": "",
-    "dlg": "Dye!!"
+    "dlg": "Умфи!!"
   },
   {
     "id": "battle_select_400032_1",
     "desc": "################# Baby Ishmael ###############",
-    "dlg": "If I’m da Wice Capain! I can do even bettar!"
+    "dlg": "Ефли я Вице Кафитан! Я могу фделать луце!"
   },
   {
     "id": "battle_endcommand_400032_1",
     "desc": "",
-    "dlg": "Big Teesh! Pwease watch over dem!"
+    "dlg": "Уфитель! Пфисматлите за ними!"
   },
   {
     "id": "battle_s3_400032_1",
     "desc": "",
-    "dlg": "Gimme da ingwedients!"
+    "dlg": "офдавай ингфидиенты!"
   },
   {
     "id": "battle_select_400033_1",
     "desc": "################# Baby Rodion ###############",
-    "dlg": "<i>*giggle*</i> Looks dewicious!"
+    "dlg": "<i>*смех*</i> Выглядит фкуфненько!"
   },
   {
     "id": "battle_endcommand_400033_1",
     "desc": "",
-    "dlg": "Dat leggy is mine!"
+    "dlg": "Фюр нофка моя!"
   },
   {
     "id": "battle_s3_400033_1",
     "desc": "",
-    "dlg": "Uugh... da lower limb is yucky!"
+    "dlg": "Фуу... нофки не фкуфные!"
   },
   {
     "id": "battle_select_400034_1",
     "desc": "################# Baby Sinclair ###############",
-    "dlg": "Um... can I be... Wice Captin?"
+    "dlg": "Эээ... Мофно я буду... Вице кафитаном?"
   },
   {
     "id": "battle_endcommand_400034_1",
     "desc": "",
-    "dlg": "I'm gonna be bwave, too!"
+    "dlg": "Я тофе буду хлаблым!"
   },
   {
     "id": "battle_s3_400034_1",
     "desc": "",
-    "dlg": "C’mewe!"
+    "dlg": "Иди фюда!"
   },
   {
     "id": "battle_select_400035_1",
@@ -1279,25 +1279,20 @@
   {
     "id": "battle_select_400036_1",
     "desc": "################# Baby Gregor ###############",
-    "dlg": "All of wus… have no choice but to faight…"
+    "dlg": "Фсем из наф… офтаётся лиф слажаться…"
   },
   {
     "id": "battle_endcommand_400036_1",
     "desc": "",
-    "dlg": "<i>Hiyaaaah!!</i>"
+    "dlg": "<i>Хааайя!!</i>"
   },
   {
     "id": "battle_s3_400036_1",
     "desc": "",
-    "dlg": "It's not... buggy!"
+    "dlg": "Оно не... Фучиное!"
   },
 
-
-	
-	{
-      "dlg": "Что осталось яростно горевать... это только моё жалкое сердце."
-    },
-	
+  
 	{
       "desc": "######################### IDENTITIES SPEECH BUBBLES ###########################"
     },
