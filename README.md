@@ -29,7 +29,7 @@
 ## Классический метод:
 1. Нажмите **Code** → **[Download ZIP](https://github.com/InspectorJele/LimbusDialogueBoxes_RU/archive/refs/heads/main.zip)** в этом репозитории GitHub.
 2. Откройте или Распакуйте ZIP файл.
-3. Нажмите 'Просмотреть локальные файлы' Limbus Company, и откройте папку 'LimbusCompany_Data'
+3. Нажмите 'Просмотреть локальные файлы' Limbus Company, и откройте папку 'LimbusCompany_Data'.
 Прим.`C:\Program Files (x86)\Steam\steamapps\common\Limbus Company\LimbusCompany_Data`
       <img src="Screenshot/Browselocalfiless.png" alt="Browselocalfiless"/>
       <img src="Screenshot/datass.png" alt="datass"/>
@@ -45,15 +45,15 @@
 2. Наслаждайтесь модом!
 
 ## У меня уже стоит мод на кастомный перевод игры / Я использую [менеджер локализации](https://github.com/kimght/LimbusLocalizationManager). Как добавить этот мод к уже существующему?
-   Покажу на примере перевода [LimbusCompanyRuMTL](https://github.com/kimght/LimbusCompanyRuMTL)
-     Вам нужно заменить все файлы, отвечающие за перевод фраз во время боя, файлом из этого мода.
-     1. Откройте файлы Limbus Company, а затем перейдите в папку с переводом 
-        Прим. `Lang\ru-mtl\`
-     2. Введите в поиск проводника `BattleSpeechBubbleDlg`, затем нажмите по любому файлу правой кнопкой мыши, и выберите **Расположение файла** 
-     <img src="Screenshot/WheresTheseThings.png" alt="WheresTheseThings"/>
-     3. Удалите все файлы, которые были в результатах поиска проводника (если не все файлы находятся в одной папке, перейдите по каждому файлу, что находится в другой папке, и тоже удалите их)
-     <img src="Screenshot/DeleteThisStuff.png" alt="DeleteThisStuff"/>
-     4. Переместите файл `BattleSpeechBubbleDlg.json`, что находится по пути `Lang\SpeechDialogBoxesEN - NotherWael\`, в папку из которой вы только что удалили файлы
+Покажу на примере перевода [LimbusCompanyRuMTL](https://github.com/kimght/LimbusCompanyRuMTL).
+Вам нужно заменить все файлы, отвечающие за перевод фраз во время боя, файлом из этого мода.
+1. Откройте файлы Limbus Company, а затем перейдите в папку с переводом.
+Прим. `Lang\ru-mtl\`
+2. Введите в поиск проводника `BattleSpeechBubbleDlg`, затем нажмите по любому файлу правой кнопкой мыши, и выберите **Расположение файла**.
+<img src="Screenshot/WheresTheseThings.png" alt="WheresTheseThings"/>
+3. Удалите все файлы, которые были в результатах поиска проводника (если не все файлы находятся в одной папке, перейдите по каждому файлу, что находится в другой папке, и тоже удалите их).
+<img src="Screenshot/DeleteThisStuff.png" alt="DeleteThisStuff"/>
+4. Переместите файл `BattleSpeechBubbleDlg.json`, что находится по пути `Lang\SpeechDialogBoxesEN - NotherWael\`, в папку из которой вы только что удалили файлы.
 
 ## С помощью установщика: 
 ### ВАЖНО: я никак не изменял установшик. При его использовании у вас будет установлена оригинальная английская версия мода от NotherWael. Используйте классический метод установки
