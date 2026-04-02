@@ -45,7 +45,7 @@
 2. Наслаждайтесь модом!
 
 ## У меня уже стоит мод на кастомный перевод игры / Я использую [менеджер локализации](https://github.com/kimght/LimbusLocalizationManager). Как добавить этот мод к уже существующему?
-   - Покажу на примере перевода [LimbusCompanyRuMTL](https://github.com/kimght/LimbusCompanyRuMTL)
+   Покажу на примере перевода [LimbusCompanyRuMTL](https://github.com/kimght/LimbusCompanyRuMTL)
      Вам нужно заменить все файлы, отвечающие за перевод фраз во время боя, файлом из этого мода.
      1. Откройте файлы Limbus Company, а затем перейдите в папку с переводом 
         Прим. `Lang\ru-mtl\`
