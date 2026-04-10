@@ -9304,57 +9304,57 @@
     {
       "id": "battle_select_10215_1",
       "desc": "########## The Ring Apprentice Faust #############",
-      "dlg": "Please observe from a distance—it's for viewing only."
+      "dlg": "Пожалуйста, соблюдайте дистанцию — это только для осмотра."
     },
     {
       "id": "battle_endcommand_10215_1",
       "desc": "",
-      "dlg": "A spark of inspiration."
+      "dlg": "Искра вдохновения."
     },
     {
       "id": "battle_enemy_break_10215_1",
       "desc": "",
-      "dlg": "These blood vessels are sufficiently thick. Not bad at all."
+      "dlg": "Эти сосуды достаточно полнокровны. Весьма недурно."
     },
     {
       "id": "battle_break_10215_1",
       "desc": "",
-      "dlg": "Are you afraid, Fascia?"
+      "dlg": "Ты боишься, Фасция?"
     },
     {
       "id": "battle_kill_10215_1",
       "desc": "",
-      "dlg": "Only now have we become friends."
+      "dlg": "Только теперь мы стали друзьями."
     },
     {
       "id": "battle_dead_10215_1",
       "desc": "",
-      "dlg": "Fa... scia..."
+      "dlg": "Фас... ция..."
     },
     {
       "id": "battle_s2_10215_1_1",
       "desc": "",
-      "dlg": "I'll take this ingredient."
+      "dlg": "Я возьму этот ингредиент."
     },
     {
       "id": "battle_s3_10215_1_1",
       "desc": "",
-      "dlg": "My bones as the frame, my flesh as the stuffing—the art of the exterior."
+      "dlg": "Мои кости как каркас, моя плоть как наполнение. Искусство экстерьера."
     },
     {
       "id": "battle_special_10215_1",
       "desc": "",
-      "dlg": "I suppose I must show you the art of the exterior."
+      "dlg": "Полагаю, я должна явить вам искусство экстерьера."
     },
     {
       "id": "battle_special_10215_2",
       "desc": "",
-      "dlg": "I don't appreciate acts of vandalism."
+      "dlg": "Я не одобряю акты вандализма."
     },
     {
       "id": "battle_special_10215_3",
       "desc": "",
-      "dlg": "You always manage to awaken my inspiration."
+      "dlg": "Вам всегда удается пробудить мое вдохновение."
     },
 
 
