@@ -1,4 +1,4 @@
-# Русский перевод боевых диалоговых окон Limbus Company. Версия v1.101.0, LCE Check-up Event
+# Русский перевод боевых диалоговых окон Limbus Company. Версия v1.102.0 (House of Spiders The Ring Faust & Hong Lu) - Hotfix 7
 
 ## Перевод может содержать ошибки.
 ### ВАЖНО
