@@ -1,4 +1,4 @@
-# Русский перевод боевых диалоговых окон Limbus Company. Версия v1.101.0, LCE Check-up Event
+# Русский перевод боевых диалоговых окон Limbus Company. Версия v1.104.0, The Middle Big Brother Heathcliff, Ricardo & Werner Missing Speech Bubbles Added
 
 ## Перевод может содержать ошибки.
 ### ВАЖНО
